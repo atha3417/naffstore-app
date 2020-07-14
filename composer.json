@@ -1,0 +1,13 @@
+{
+    "name": "atha/pos-app",
+    "description": "Just a simple app",
+    "keywords": ["php", "pos"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
